@@ -7,10 +7,10 @@ issueTrackerURL="https://github.com/teamauroramods/BetterBadlands/issues"
     modId="better_badlands"
     version="${file.jarVersion}"
     displayName="Better Badlands"
-    displayURL="https://discord.gg/BgE4EpP"
+    displayURL="https://discord.gg/VzXSCFp"
     logoFile="logo.png"
     authors="Team Aurora"
-    description="Badlands, but better"
+    description="Improves badlands by giving them a few more features."
 
 [[dependencies.better_badlands]]
     modId="forge"
