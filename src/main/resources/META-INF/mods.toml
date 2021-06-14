@@ -1,7 +1,7 @@
 modLoader="javafml"
 loaderVersion="[32,)"
 license="All rights reserved"
-issueTrackerURL="https://github.com/teamauroramods/BetterBadlands/issues"
+issueTrackerURL="https://github.com/teamauroramods/BetterBadlands-Forge/issues"
 
 [[mods]]
     modId="better_badlands"
